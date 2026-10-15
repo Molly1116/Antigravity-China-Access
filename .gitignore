@@ -1,0 +1,15 @@
+# Local configuration may contain machine-specific proxy endpoints.
+proxy-config.psd1
+proxy-config.local.psd1
+*.local.ps1
+
+# Local launch artifacts and diagnostics.
+*.lnk
+*.log
+
+# Editor and OS noise.
+.vscode/
+.idea/
+Thumbs.db
+Desktop.ini
+
